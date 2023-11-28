@@ -2,7 +2,7 @@
 
 ## About Me
 
-Greetings! I am Nada, a diligent second-year computer science student at Faculty of Computers and Artificial Intelligence, Cairo university with a fervor for software development and a commitment to continuous learning.
+Greetings! I am Nada, a diligent second-year computer science student at faculty of computers and artificial intelligence, Cairo university with a fervor for software development , problem solving and a commitment to continuous learning.
 
 ## Professional Overview
 
