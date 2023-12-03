@@ -7,7 +7,7 @@ Greetings! I am Nada, a diligent second-year computer science student at faculty
 ## Professional Overview
 
 - **Current Pursuit:** Bachelor's degree in Computer Science.
-- **Technical Proficiency:** Skilled in [C++, Python] with a good foundation in algorithms and data structures.
+- **Technical Proficiency:** Skilled in C++ with a good foundation in algorithms and data structures.
 - **Project Portfolio:** Explore my repositories for a comprehensive view of my work.
 
 ## Key Focus Areas
